@@ -3,7 +3,7 @@
 ![](images/airflow_logo.PNG)
 
 # Introduction & Goals
-- The goal of the project was to create a pipeline using Airflow using python, bash, and hive operators
+- The goal of the project was to create a pipeline using Airflow using python, bash, and hive operators. The pipeline would extract tweets, transform the data, and load the data to a hive database.
 
 
 # The Data Set
